@@ -1,7 +1,6 @@
   [1]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo  "Tampermonkey"
   
-# TwitchDarkChat.js - #
-# Protect your eyes from who using lighter color. #
+# TwitchDarkChat.js - Protect eyes from lighter color. #
 
 ## Requirement: ##
 [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
